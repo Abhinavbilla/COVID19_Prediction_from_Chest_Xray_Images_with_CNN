@@ -1,7 +1,4 @@
-<p align="center"> 
 
-url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F/tree/main/001_Cervical_Cancer_Predection_with_ML&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
-</p> 
 # Prediction of COVID-19 from Chest X-ray Images with CNN (Convolutional Neural Network)
 
 In this project, Built and trained a convolutional neural network in Keras with TensorFlow as backend from scratch to predict patients if they were infected with COVID-19 or not using their chest X-ray images. 
